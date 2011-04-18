@@ -5,6 +5,7 @@
 
 #include <stdio.h>
 
+
 int prepare_process (char c, FILE * f_dest);
 
 
